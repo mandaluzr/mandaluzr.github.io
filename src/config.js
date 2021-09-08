@@ -1,7 +1,7 @@
 // config.js
 module.exports = {
     github: {
-        username: 'arifszn', // Your GitHub org/user name. (Required)
+        username: 'mandaluzr', // Your GitHub org/user name. (Required)
         sortBy: 'stars', // stars | updated
         limit: 8, // How many projects to display.
         exclude: {
@@ -10,37 +10,31 @@ module.exports = {
         }
     },
     social: {
-        linkedin: 'ariful-alam',
-        twitter: 'arif_swozon',
+        linkedin: 'marcos-andaluz-de-rosas',
+        twitter: '',
         facebook: '',
         dribbble: '',
         behance: '',
         medium: '',
         devto: '',
-        website: 'https://arifszn.github.io',
+        website: 'https://mandaluzr.github.io/mandaluzr/',
         phone: '',
-        email: 'contact@arifszn.com'
+        email: 'mandaluzr@hotmail.com'
     },
     skills: [
-        'PHP',
-        'Laravel',
         'JavaScript',
         'React.js',
-        'Vue.js',
         'Node.js',
-        'Jquery',
         'MySQL',
         'Git',
         'CSS',
-        'Antd',
-        'Tailwind',
-        'Bootstrap',
+        'Redux',
     ],
     experiences: [
         { 
-            company: 'Monstarlab Bangladesh',
-            position: 'Software Engineer',
-            from: 'September 2021',
+            company: 'Tiller Systems',
+            position: 'Senior Customer Success Manager',
+            from: 'June 2019',
             to: 'Present'
         },
         { 
