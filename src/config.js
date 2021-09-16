@@ -3,7 +3,7 @@ module.exports = {
   github: {
     username: "mandaluzr", // Your GitHub org/user name. (Required)
     sortBy: "stars", // stars | updated
-    limit: 8, // How many projects to display.
+    limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: ["picturest-node-1", "picturest-react-1"], // These projects will not be displayed. example: ['my-project1', 'my-project2']
@@ -65,7 +65,7 @@ module.exports = {
   blog: {
     // Display blog posts from your medium or dev.to account. (Optional)
     source: "dev.to", // medium | dev.to
-    username: "arifszn",
+    username: "mandaluzr",
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
@@ -73,7 +73,7 @@ module.exports = {
     id: "G-WLLB5E14M6", // Please remove this and use your own tag id
   },
   themeConfig: {
-    default: "light",
+    default: "forest",
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
