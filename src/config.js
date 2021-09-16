@@ -56,6 +56,12 @@ module.exports = {
       to: "2020",
     },
     {
+      institution: "UPC",
+      degree: "Postgrado en Dirección Comercial y Ventas",
+      from: "2019",
+      to: "2019",
+    },
+    {
       institution: "Universidad Nacional de Rosario",
       degree: "Degree in Business Management and Accounting",
       from: "2012",
